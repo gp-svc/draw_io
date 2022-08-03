@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T12:14:37.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="q2vqer82TC9p54Y3FzUn" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T12:16:56.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WK7qPkZ2mMcqpus_t-j7" version="20.0.4" type="github">
   <diagram id="CBXjzga55jaLRlvK6xoz" name="Page-1">
     <mxGraphModel dx="2036" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,8 +175,8 @@
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-41" value="access data from internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="1880" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4nlPYvr7-jDKzYdwGR_k-43" value="&lt;h1&gt;Type:&lt;/h1&gt;&lt;h1&gt;Node Port&lt;/h1&gt;&lt;h1&gt;CLusterIP&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1870" width="140" height="160" as="geometry" />
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-43" value="&lt;h1&gt;Type:&lt;/h1&gt;&lt;h1&gt;Node Port - range between port (30000-)&lt;/h1&gt;&lt;h1&gt;CLusterIP&amp;nbsp;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1870" width="480" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-44" value="Its expose the appliction on public - browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="2070" width="260" height="30" as="geometry" />
