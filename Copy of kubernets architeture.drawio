@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T12:16:56.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WK7qPkZ2mMcqpus_t-j7" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T12:26:44.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TujAlhDhxOz66k99tllQ" version="20.0.4" type="github">
   <diagram id="CBXjzga55jaLRlvK6xoz" name="Page-1">
     <mxGraphModel dx="2036" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,16 +161,16 @@
           <mxGeometry x="580" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-35" value="&lt;h1&gt;Service&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1805" width="110" height="70" as="geometry" />
+          <mxGeometry x="345" y="1810" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.633;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4nlPYvr7-jDKzYdwGR_k-39" target="4nlPYvr7-jDKzYdwGR_k-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-39" value="pod" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-41" value="access data from internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="1880" width="160" height="30" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-43" value="&lt;h1&gt;Type:&lt;/h1&gt;&lt;h1&gt;Node Port - range between port (30000-)&lt;/h1&gt;&lt;h1&gt;CLusterIP&amp;nbsp;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1870" width="480" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="4nlPYvr7-jDKzYdwGR_k-44" value="Its expose the appliction on public - browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="2070" width="260" height="30" as="geometry" />
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-44" value="&lt;h2&gt;NodePort: Its expose the appliction on public - browser&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="2055" width="500" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
