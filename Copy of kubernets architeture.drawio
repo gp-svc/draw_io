@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T11:45:25.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YIGVDb_wJ0E-fgXoTK_4" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T11:46:18.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mAJ7e1syX1EoZiUv1XQA" version="20.0.4" type="github">
   <diagram id="CBXjzga55jaLRlvK6xoz" name="Page-1">
     <mxGraphModel dx="2431" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -515,7 +515,7 @@
           <mxGeometry x="510" y="6250" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-181" value="&lt;h1&gt;Taint and Toleration&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-495" y="6445" width="250" height="70" as="geometry" />
+          <mxGeometry x="-317.5" y="6360" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-182" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="6500" width="120" height="60" as="geometry" />
@@ -534,6 +534,9 @@
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-187" value="&lt;h2&gt;police/doctor&lt;/h2&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#2BFF1C;" vertex="1" parent="1">
           <mxGeometry x="-425" y="6660" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-188" value="&lt;h1&gt;Taint is for node level &lt;br&gt;and Toleration for pod level&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="6425" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
