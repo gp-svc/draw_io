@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T10:01:35.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I7rKSSc41o58n9ANuHZv" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T10:38:21.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="07cKdF109VftZeJDsq_L" version="20.0.4" type="github">
   <diagram id="CBXjzga55jaLRlvK6xoz" name="Page-1">
     <mxGraphModel dx="2431" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -419,7 +419,13 @@
           <mxGeometry x="-135" y="4710" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-144" value="&lt;h2&gt;it will execute one time and pod and container get killed&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="4770" width="500" height="60" as="geometry" />
+          <mxGeometry x="-120" y="4770" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-145" value="&lt;h1&gt;CronJobs&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="4835" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-146" value="&lt;h1&gt;Probs&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="4955" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
