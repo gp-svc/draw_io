@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T08:28:53.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="b4iezRnLSzuk0tSEuKUm" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T08:29:11.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gsmaOqqDbopUa5a_curM" version="20.0.4" type="github">
   <diagram id="CBXjzga55jaLRlvK6xoz" name="Page-1">
     <mxGraphModel dx="2431" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -261,8 +261,8 @@
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-78" value="env=dev" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="314" y="2830" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4nlPYvr7-jDKzYdwGR_k-79" value="&lt;h2&gt;&lt;/h2&gt;&lt;h1&gt;Control Manager&lt;/h1&gt;&lt;h2&gt;Replication Controler&amp;nbsp;&lt;br&gt;Replicaset&lt;br&gt;jobs&lt;br&gt;cronjobs&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="2915" width="210" height="180" as="geometry" />
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-79" value="&lt;h2&gt;&lt;/h2&gt;&lt;h1&gt;Control Manager&lt;/h1&gt;&lt;h2&gt;Replication Controler&amp;nbsp;&lt;br&gt;Replicaset&lt;br&gt;Deployment&lt;br&gt;jobs&lt;br&gt;cronjobs&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2910" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-80" value="&lt;h2&gt;control manager help to manage number of pods&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="2970" width="440" height="60" as="geometry" />
