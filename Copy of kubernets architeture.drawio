@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T05:52:16.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uWVrLnzD1UDQXXJZThsC" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T06:14:41.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IdWW8ljCNVko4xD5Qna8" version="20.0.4" type="github">
   <diagram id="CBXjzga55jaLRlvK6xoz" name="Page-1">
     <mxGraphModel dx="2036" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -252,14 +252,20 @@
         <mxCell id="4nlPYvr7-jDKzYdwGR_k-75" value="&lt;h2&gt;Labels&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="2730" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4nlPYvr7-jDKzYdwGR_k-76" value="tag" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="47" y="2850" width="60" height="80" as="geometry" />
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-76" value="owner=gop" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2830" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4nlPYvr7-jDKzYdwGR_k-77" value="tag" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="205" y="2850" width="60" height="80" as="geometry" />
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-77" value="owner=gop" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2830" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4nlPYvr7-jDKzYdwGR_k-78" value="tag" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="384" y="2850" width="60" height="80" as="geometry" />
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-78" value="env=dev" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="314" y="2830" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-79" value="&lt;h1&gt;Control Manager&lt;/h1&gt;&lt;div&gt;Replication Controler&amp;nbsp;&lt;/div&gt;&lt;div&gt;Replicaset&lt;/div&gt;&lt;div&gt;jobs&lt;/div&gt;&lt;div&gt;cronjobs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="2930" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4nlPYvr7-jDKzYdwGR_k-80" value="&lt;h2&gt;control manager help to manage number of pods&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="2970" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
