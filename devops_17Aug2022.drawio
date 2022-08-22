@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T14:09:11.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jS-2hONEFJg8F8clhOs8" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T14:52:10.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EX0vl7LHHEOebRBwiUnB" version="20.2.5" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
     <mxGraphModel dx="784" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="530" y="805" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QCNMNIQBk-sfIVYiamI_-15" value="help to compare &lt;br&gt;=&lt;br&gt;spl char - symbols, regex&lt;br&gt;&amp;nbsp;space ,null,data types ,string, number, boolean, &lt;br&gt;char, file, folder, device, execution status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="845" width="280" height="90" as="geometry" />
+          <mxGeometry x="390" y="845" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QCNMNIQBk-sfIVYiamI_-16" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
