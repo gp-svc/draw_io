@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T14:00:08.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZiOkgJkYemRtZ5pc5biK" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T14:26:14.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Uyf3YZmg2JSBy4XlwJe6" version="20.3.0" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
     <mxGraphModel dx="950" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -936,6 +936,80 @@
         </mxCell>
         <mxCell id="XH81sweP_0PnuOsCx2_g-22" value="vpc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="7910" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-23" value="Instance type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="8275" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-24" value="AMI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="8270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-25" value="capacity of the instance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="8305" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-26" value="configuration of the instance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="8335" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-27" value="number of cpu, memory, storage, network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="8365" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-28" value="Amazon Managed Image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="8305" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-29" value="OS, Snapshopt - amazon image, centos, debian, windows" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="8335" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-30" value="some of them are free, some of them need license cost,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="8365" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-31" value="some of the ami are dependent to instance type - hardware specific" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="8395" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-32" value="naming convention for instance type&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="8425" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-33" value="t2.micro - free&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="8455" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-34" value="m4.large, m4.xlarge&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="8480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-36" value="autoscalling group - launch configuration or launc template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="8580" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XH81sweP_0PnuOsCx2_g-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="8780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="8740" />
+              <mxPoint x="200" y="8740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-37" value="az1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="8670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-38" value="az2- getting down" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="8850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XH81sweP_0PnuOsCx2_g-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="8780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-39" value="az3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="8670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-41" value="az2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="8670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-42" value="termination" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="8865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-43" value="available in 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="8745" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH81sweP_0PnuOsCx2_g-47" value="min and max" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="8640" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
