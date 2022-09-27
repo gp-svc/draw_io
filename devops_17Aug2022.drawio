@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T14:23:08.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aKUyDRQahFHBTItenYr7" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T14:29:12.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XaR0Vka2EgCcHgI-SMVc" version="20.3.6" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
-    <mxGraphModel dx="950" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1643,7 +1643,7 @@
           <mxGeometry x="120" y="13740" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jIh6n8-BYkNRq4gNIjhv-19" value="Nat Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="13765" width="90" height="30" as="geometry" />
+          <mxGeometry x="57.5" y="13780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jIh6n8-BYkNRq4gNIjhv-20" value="Internet gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="43.75" y="13805" width="110" height="30" as="geometry" />
@@ -1810,8 +1810,14 @@
         <mxCell id="jIh6n8-BYkNRq4gNIjhv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIh6n8-BYkNRq4gNIjhv-76" target="jIh6n8-BYkNRq4gNIjhv-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jIh6n8-BYkNRq4gNIjhv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jIh6n8-BYkNRq4gNIjhv-76" target="jIh6n8-BYkNRq4gNIjhv-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jIh6n8-BYkNRq4gNIjhv-76" value="network router" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="14080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIh6n8-BYkNRq4gNIjhv-84" value="30" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="14000" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
