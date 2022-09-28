@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T13:57:05.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="923il1QGlLn_J6ayeBT0" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T14:02:00.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d39noBB0LxPBnV7qfQ_8" version="20.3.7" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
     <mxGraphModel dx="950" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1927,6 +1927,21 @@
         </mxCell>
         <mxCell id="RM7id07bOqS7uiSUkDvu-37" value="vpc peering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="15360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RM7id07bOqS7uiSUkDvu-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178.75" y="15510" width="391.25" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RM7id07bOqS7uiSUkDvu-39" value="what ever the resources allocated in public subnet - might have internet connection or external traffic are allowed" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="268.75" y="15550" width="121.25" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="RM7id07bOqS7uiSUkDvu-40" value="private subnet - it will allows only internal traffic - with in vpc - not from internet" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="281.25" y="15680" width="92.5" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RM7id07bOqS7uiSUkDvu-41" value="public subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="15580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RM7id07bOqS7uiSUkDvu-42" value="private subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="15711.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
