@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T14:17:56.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vG8lRPWZy3m1bAkF5I4G" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T14:22:15.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SrOW6NtPQnL2_eHgbT55" version="20.5.1" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
     <mxGraphModel dx="950" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2398,6 +2398,27 @@
         </mxCell>
         <mxCell id="9otYLOvVcNAseaJsPmq0-8" value="execute the remote command from laptop to do the deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="19175" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-9" value="ssh to the server and then do the necessary changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="19010" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-12" value="Ansible" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="188.75" y="19190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-13" value="Remote execution&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="19275" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-14" value="location execution&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="19275" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-15" value="Userdata - we are allowed to write bootstrap the instance -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="506" y="19245" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-16" value="bootstrap - when the instance hardware is ready - same time installation script will get started -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="411" y="19285" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9otYLOvVcNAseaJsPmq0-17" value="cloud-init" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="19315" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
