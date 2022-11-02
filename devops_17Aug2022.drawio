@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T14:29:57.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="W7p5y5LAYf7snXFLcCyn" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T14:27:13.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dBYqHoLvSASK8CGDwHsb" version="20.5.1" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
-    <mxGraphModel dx="950" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2375,92 +2375,101 @@
         <mxCell id="Yz7R2lQSQazsWFPd7yTl-7" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="18510" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="111.25" y="18920" width="358.75" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-2" value="server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-2" value="server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="18855" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9otYLOvVcNAseaJsPmq0-3" target="9otYLOvVcNAseaJsPmq0-1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9otYLOvVcNAseaJsPmq0-3" target="9otYLOvVcNAseaJsPmq0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="596" y="18930" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-5" value="login to the server and do the deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-5" value="login to the server and do the deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="475" y="18870" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9otYLOvVcNAseaJsPmq0-6" target="9otYLOvVcNAseaJsPmq0-1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9otYLOvVcNAseaJsPmq0-6" target="9otYLOvVcNAseaJsPmq0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="763.75" y="19090" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-8" value="execute the remote command from laptop to do the deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-8" value="execute the remote command from laptop to do the deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="19175" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-9" value="ssh to the server and then do the necessary changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-9" value="ssh to the server and then do the necessary changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="19010" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-12" value="Ansible" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-12" value="Ansible" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="188.75" y="19190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9otYLOvVcNAseaJsPmq0-13">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9otYLOvVcNAseaJsPmq0-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="19450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-13" value="Remote execution&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-13" value="Remote execution&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="19275" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9otYLOvVcNAseaJsPmq0-14">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9otYLOvVcNAseaJsPmq0-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="19370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-14" value="location execution&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-14" value="location execution&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="19275" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-15" value="Userdata - we are allowed to write bootstrap the instance -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-15" value="Userdata - we are allowed to write bootstrap the instance -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="506" y="19245" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-16" value="bootstrap - when the instance hardware is ready - same time installation script will get started -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-16" value="bootstrap - when the instance hardware is ready - same time installation script will get started -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="411" y="19285" width="530" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-17" value="cloud-init" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-17" value="cloud-init" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="525" y="19315" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-19" value="userdata -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-19" value="userdata -&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="19375" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-20" value="ansible-playbook -i localhost --vars=webserver local.yaml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-20" value="ansible-playbook -i localhost --vars=webserver local.yaml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="363" y="19410" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9otYLOvVcNAseaJsPmq0-22">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9otYLOvVcNAseaJsPmq0-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="19560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-22" value="inventory file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-22" value="inventory file" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="45" y="19490" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-24" value="ip address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-24" value="ip address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="19565" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-25" value="ansible-playbook -i inventory --vars=remoteexe remote.yaml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-25" value="ansible-playbook -i inventory --vars=remoteexe remote.yaml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="133.75" y="19550" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-26" value="this command will execute from control server or&amp;nbsp; admin computer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-26" value="this command will execute from control server or&amp;nbsp; admin computer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="136" y="19520" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-27" value="aws s3 cp s3://my_project/env/bundle.tar.gz /tmp/deploy.tar.gz" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-27" value="aws s3 cp s3://my_project/env/bundle.tar.gz /tmp/deploy.tar.gz" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="363.75" y="19370" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-28" value="cd /tmp/; tar -xvzf deploy.tar.gz ; cd deploy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-28" value="cd /tmp/; tar -xvzf deploy.tar.gz ; cd deploy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="363" y="19390" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9otYLOvVcNAseaJsPmq0-29" value="deployment command will get executed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9otYLOvVcNAseaJsPmq0-29" value="deployment command will get executed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="383" y="19440" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIO9D9EiCev9pCQ0jC6K-1" value="remote.yaml" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="19720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NIO9D9EiCev9pCQ0jC6K-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="19630" width="215" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NIO9D9EiCev9pCQ0jC6K-3" value="httpd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="19595" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
