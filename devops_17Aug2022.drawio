@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T14:27:13.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dBYqHoLvSASK8CGDwHsb" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T14:55:05.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qMbjuLnDSbjtE8G262iS" version="20.5.1" type="github">
   <diagram id="XMzIL-5AGFkydlVCWrg7" name="Page-1">
-    <mxGraphModel dx="1662" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2462,14 +2462,158 @@
         <mxCell id="9otYLOvVcNAseaJsPmq0-29" value="deployment command will get executed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="383" y="19440" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NIO9D9EiCev9pCQ0jC6K-1" value="remote.yaml" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NIO9D9EiCev9pCQ0jC6K-1" value="remote.yaml" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="103.75" y="19720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NIO9D9EiCev9pCQ0jC6K-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NIO9D9EiCev9pCQ0jC6K-2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="19630" width="215" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NIO9D9EiCev9pCQ0jC6K-3" value="httpd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NIO9D9EiCev9pCQ0jC6K-3" value="httpd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="19595" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-1" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="168.75" y="19850" as="sourcePoint" />
+            <mxPoint x="620" y="19860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-2" value="Jenkins&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="19885" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-3" value="Jenkins is a java based project&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="125" y="19950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-4" value="which help to automate any kind of workflow in a regular basis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="19965" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-5" value="Configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="103.75" y="20070" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-6" value="Global Configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="20095" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-7" value="Secret Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="20125" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-8" value="Environmental Variables" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="63.75" y="20155" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-9" value="Understand multiple jenkins node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="63.75" y="20185" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-10" value="Creating simple jenkins jobs by invoking shell or python or any language" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20215" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-11" value="Importance of plugins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="53.75" y="20245" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-12" value="User&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="89" y="20270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-13" value="view" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="88" y="20295" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-14" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="65" y="20330" as="sourcePoint" />
+            <mxPoint x="165" y="20330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-15" value="Pipeline - creation using groovy scripts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20335" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-16" value="Pipeline creation using dsl jobs - seed jobs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="20365" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-17" value="Groovy, java, dls codes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="20335" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-18" value="Free style projects" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="20125" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-19" value="Maven" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="20155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-20" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="57.5" y="20430" as="sourcePoint" />
+            <mxPoint x="290" y="20430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-21" value="Maven" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128.75" y="20450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-22" value="java - related repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="20450" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="95" y="20520" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-25" value="db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="443.75" y="20560" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.271;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uJQsBsjXHDbwA3sJBZ17-26" target="uJQsBsjXHDbwA3sJBZ17-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-26" value="developer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="20720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-28" value="mysql db" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="20575" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-29" value="using java code&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="20780" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-30" value="mysql_5.7_java_dep.jar&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="678.5" y="20485" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-31" value="connectivyt.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="20550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-32" value="authendicat.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788.5" y="20550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-33" value="open.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="20620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-34" value="paid.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="798.5" y="20620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-35" value="mysql_5.7_java_dep.jar&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="20820" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-36" value="connectivyt.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-37" value="authendicat.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="20885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-38" value="open.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="20955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-39" value="paid.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="20955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-40" value="import mysql.connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="83.75" y="20750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-41" value="6.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="20720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-42" value="security.jar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="20670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-44" value="6.9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="20750" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-45" value="6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20655" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-47" value="maven - pom.xml" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="20780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJQsBsjXHDbwA3sJBZ17-48" value="&amp;lt;dependency&amp;gt;&lt;br&gt;package - what is the version&lt;br&gt;&amp;lt;depen.....&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="20820" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
